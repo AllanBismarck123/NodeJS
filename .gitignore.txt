@@ -1,0 +1,2 @@
+/node_modules
+/curso-node-ejs/node_modules/
